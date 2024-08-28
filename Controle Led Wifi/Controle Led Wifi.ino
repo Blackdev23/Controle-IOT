@@ -1,7 +1,7 @@
 /*
 Controle de leds via WIFI
 Projeto Desenvolvido por:
-Erasmo Junior (github.com/Blackdev23) - Programador do servidor WEB
+Erasmo Junior (github.com/Erasmojunior26) - Programador do servidor WEB
 Guilherme Maynart (github.com/guizwtx) e Luiz Filipe (github.com/luiz-filipe077) - Montadores do sistema físico
 Gustavo Dantas (github.com/ggustavodl) - Programador do aplicativo
 */
